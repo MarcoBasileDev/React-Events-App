@@ -38,7 +38,7 @@ This React application allows users to create, delete, modify, and search events
 
 ## Usage
 
-## Setup and Installation
+### Setup and Installation
 
 - clone the repository: git clone https://github.com/MarcoBasileDev/React-Events-App.git
 - Navigate to the project directory.
